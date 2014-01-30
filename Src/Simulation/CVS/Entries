@@ -1,0 +1,38 @@
+/CMakeLists.txt/1.1/Mon May 11 14:33:18 2009/-kkv/
+/DockWidget.cpp/1.3/Mon Mar 15 07:04:07 2010/-kkv/
+/DockWidget.h/1.4/Mon Mar 15 07:04:14 2010/-kkv/
+/MenuBar.cpp/1.25/Tue Feb 22 11:07:25 2011/-kkv/
+/MenuBar.h/1.21/Tue Feb 22 11:07:43 2011/-kkv/
+/MotionWidget.cpp/1.6/Sun May 23 05:02:16 2010/-kkv/
+/MotionWidget.h/1.6/Sun May 23 05:01:58 2010/-kkv/
+/MotionWindow.cpp/1.4/Sun May 23 05:01:42 2010/-kkv/
+/MotionWindow.h/1.4/Sun May 23 05:01:25 2010/-kkv/
+/SignalControl.cpp/1.1/Fri Apr  9 07:51:35 2010/-kkv/
+/SignalControl.h/1.1/Fri Apr  9 07:51:35 2010/-kkv/
+/SignalControlWnd.cpp/1.2/Tue Apr 13 13:15:41 2010/-kkv/
+/SignalControlWnd.h/1.2/Tue Apr 13 13:15:41 2010/-kkv/
+/SignalUnconflict.h/1.1/Fri Jun 26 09:07:53 2009/-kkv/
+/Simulation.qrc/1.20/Wed May 26 01:45:27 2010/-kkv/
+/SimulationData.cpp/1.4/Fri Jan 22 08:07:17 2010/-kkv/
+/SimulationData.h/1.5/Fri Jan 22 08:07:17 2010/-kkv/
+/SubWindow.cpp/1.1/Mon May 11 14:33:19 2009/-kkv/
+/SubWindow.h/1.1/Mon May 11 14:33:19 2009/-kkv/
+/TableWindow.cpp/1.5/Sun May 23 04:57:29 2010/-kkv/
+/TableWindow.h/1.5/Sun May 23 04:57:10 2010/-kkv/
+/ToolBar.cpp/1.20/Tue Feb 22 11:10:45 2011/-kkv/
+/ToolBar.h/1.2/Fri Apr  9 07:42:59 2010/-kkv/
+/config.h/1.1/Mon May 11 14:33:19 2009/-kkv/
+/main.cpp/1.2/Sun Apr 11 13:18:18 2010/-kkv/
+/mainwindow.cpp/1.95/Tue Feb 22 11:04:30 2011/-kkv/
+/mainwindow.h/1.39/Tue Feb 22 11:05:17 2011/-kkv/
+D/ActuatorGUI////
+D/BehavView////
+D/BehaviorGUI////
+D/LocatorGUI////
+D/NaoProvider////
+D/ODESimulation////
+D/VisionGUI////
+D/generatedfiles////
+D/icons////
+D/network////
+D/saTools////

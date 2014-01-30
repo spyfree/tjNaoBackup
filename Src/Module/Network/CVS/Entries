@@ -1,0 +1,26 @@
+/CommDef.h/1.1/Mon May 11 14:33:14 2009/-kkv/
+/GameControlHandle.cpp/1.4/Wed May 19 01:05:39 2010/-kkv/
+/GameControlHandle.h/1.2/Mon May 10 12:10:05 2010/-kkv/
+/Network.cpp/1.10/Tue Feb 22 08:28:02 2011/-kkv/
+/Network.h/1.6/Mon May 10 12:10:23 2010/-kkv/
+/NetworkProvider.cpp/1.10/Sun May 30 11:39:29 2010/-kkv/
+/NetworkProvider.h/1.7/Sun May 23 09:58:36 2010/-kkv/
+/PyGameControl.cpp/1.7/Thu Oct 28 10:47:47 2010/-kkv/
+/PyGameControl.h/1.5/Thu Oct 28 10:47:47 2010/-kkv/
+/PyTeamCfg.cpp/1.2/Sun May 23 10:25:46 2010/-kkv/
+/PyTeamCfg.h/1.1/Sun Sep 20 10:39:15 2009/-kkv/
+/PyTeammate.cpp/1.5/Tue May 11 14:18:32 2010/-kkv/
+/PyTeammate.h/1.1/Tue May 11 03:07:24 2010/-kkv/
+/RoboCupGameControlData.h/1.10/Tue May 25 02:20:18 2010/-kkv/
+/TcpConnect.cpp/1.11/Tue Feb 22 08:29:20 2011/-kkv/
+/TcpConnect.h/1.8/Tue Feb 22 08:29:46 2011/-kkv/
+/TcpPoint.cpp/1.2/Sun May 31 11:02:09 2009/-kkv/
+/TcpPoint.h/1.3/Sun May 31 11:02:09 2009/-kkv/
+/TeamMateInfo.h/1.4/Tue May 11 10:17:29 2010/-kkv/
+/UdpConnect.cpp/1.1/Mon May 11 14:33:14 2009/-kkv/
+/UdpConnect.h/1.1/Mon May 11 14:33:14 2009/-kkv/
+/UdpConnnect.cpp/1.1/Mon May 11 14:33:14 2009/-kkv/
+/UdpPoint.cpp/1.6/Tue May 11 02:32:40 2010/-kkv/
+/UdpPoint.h/1.5/Mon May 10 12:10:54 2010/-kkv/
+/WirelessConfig.h/1.5/Mon Oct 19 06:23:52 2009/-kkv/
+D/networkComm////

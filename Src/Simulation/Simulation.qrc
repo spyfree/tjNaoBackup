@@ -1,0 +1,106 @@
+<RCC>
+  <qresource prefix="/" >
+    <file>icons/CameraChange.png</file>
+    <file>icons/ColorImage.png</file>
+    <file>icons/ColorSpace.png</file>
+    <file>icons/DragPlane.png</file>
+    <file>icons/camera.png</file>
+    <file>icons/Exit.png</file>
+    <file>icons/Next.png</file>
+    <file>icons/OpenLut.png</file>
+    <file>icons/Previous.png</file>
+    <file>icons/Run.png</file>
+    <file>icons/Save.png</file>
+    <file>icons/ODESave.png</file>
+    <file>icons/SaveAs.png</file>
+    <file>icons/ODESave.png</file>
+    <file>icons/ODEOpen.png</file>
+    <file>icons/rawImage.png</file>
+    <file>icons/classifyImage.png</file>
+
+    <file>icons/Sensor.png</file>
+    <file>icons/Simulator.png</file>
+    <file>icons/add.png</file>
+    <file>icons/application_fit.png</file>
+    <file>icons/chart_line.png</file>
+    <file>icons/connect.png</file>
+    <file>icons/copy.png</file>
+    <file>icons/cut.png</file>
+    <file>icons/del.png</file>
+    <file>icons/delete.png</file>
+    <file>icons/disconnect.png</file>
+    <file>icons/edit.png</file>
+    <file>icons/emergency-stop.png</file>
+    <file>icons/exit.png</file>
+    <file>icons/genlut.png</file>
+    <file>icons/getPic.png</file>
+    <file>icons/getSteamPic.png</file>
+    <file>icons/layers.png</file>
+    <file>icons/media-pause.png</file>
+    <file>icons/media-play.png</file>
+    <file>icons/media-stop.png</file>
+    <file>icons/new.png</file>
+    <file>icons/open.png</file>
+    <file>icons/opening_angle.png</file>
+    <file>icons/page_copy.png</file>
+    <file>icons/paste.png</file>
+    <file>icons/reset.png</file>
+    <file>icons/savefile.png</file>
+    <file>icons/savelut.png</file>
+
+    <file>icons/Sensor.png</file>
+    <file>icons/send.png</file>
+    <file>icons/stop.png</file>
+    <file>icons/emergency-stop.png</file>
+    <file>icons/media-play.png</file>
+    <file>icons/media-pause.png</file>
+    <file>icons/media-stop.png</file>
+    <file>icons/step.png</file>
+    <file>icons/reset.png</file>
+    <file>icons/sim_open.png</file>
+    <file>icons/recording.png</file>
+    <file>icons/record.png</file>
+    <file>icons/screen-shot.png</file>
+    <file>icons/startNetClassified.png</file>
+    <file>icons/stopNetClassified.png</file>
+    <file>icons/signal.png</file>
+    <file>icons/actuator.png</file>
+    <file>icons/behavior.png</file>
+  </qresource>
+
+  <qresource prefix="/sa" >
+    <file>icons/saTools/GT.png</file>
+    <file>icons/saTools/Qt.png</file>
+  </qresource>
+
+  <qresource prefix="/sensor" >
+    <file>icons/saTools/SensorWidget/Sensor.png</file>
+    <file>icons/saTools/SensorWidget/Nao.ico</file>
+  </qresource>
+
+  <qresource prefix="/saPlayer" >
+    <file>icons/saTools/saPlayerWidget/playAllSteps.png</file>
+    <file>icons/saTools/saPlayerWidget/playCurrentStep.png</file>
+    <file>icons/saTools/saPlayerWidget/playRangeSteps.png</file>
+    <file>icons/saTools/saPlayerWidget/Uedit32.png</file>
+  </qresource>
+
+  <qresource prefix="/sa/connect" >
+    <file>icons/saTools/ConnectWidget/add.png</file>
+    <file>icons/saTools/ConnectWidget/connect.png</file>
+    <file>icons/saTools/ConnectWidget/delete.png</file>
+    <file>icons/saTools/ConnectWidget/disconnect.png</file>
+    <file>icons/saTools/ConnectWidget/edit.png</file>
+  </qresource>
+
+  <qresource prefix="/robot" >
+    <file>icons/saTools/Robots/Blue.png</file>
+    <file>icons/saTools/Robots/Green.png</file>
+    <file>icons/saTools/Robots/Orange.png</file>
+    <file>icons/saTools/Robots/Pink.png</file>
+    <file>icons/saTools/Robots/Red.png</file>
+    <file>icons/saTools/Robots/Turquoise.png</file>
+    <file>icons/saTools/Robots/Yellow.png</file>
+  </qresource>
+
+</RCC>

@@ -1,0 +1,14 @@
+/ConnectDialog.cpp/1.4/Wed Nov 18 12:19:46 2009/-kkv/
+/ConnectDialog.h/1.5/Wed Nov 18 12:19:46 2009/-kkv/
+/ConnectInfo.cpp/1.2/Sun Sep 20 10:25:04 2009/-kkv/
+/ConnectInfo.h/1.1/Mon May 11 14:33:21 2009/-kkv/
+/NetCommandMsg.cpp/1.1/Mon May 11 14:33:21 2009/-kkv/
+/NetCommandMsg.h/1.1/Mon May 11 14:33:21 2009/-kkv/
+/TcpConnect.cpp/1.5/Tue Feb 22 11:10:11 2011/-kkv/
+/TcpConnect.h/1.5/Tue Feb 22 11:10:24 2011/-kkv/
+/Tcpconfig.h/1.2/Mon Oct 19 06:33:05 2009/-kkv/
+/receivethread.cpp/1.5/Tue Feb 22 11:09:14 2011/-kkv/
+/receivethread.h/1.6/Tue Feb 22 11:09:28 2011/-kkv/
+/sendthread.cpp/1.4/Tue Feb 22 11:09:45 2011/-kkv/
+/sendthread.h/1.5/Tue May 11 03:10:58 2010/-kkv/
+D
